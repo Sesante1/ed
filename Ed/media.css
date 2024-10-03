@@ -1,0 +1,16 @@
+@media screen and (max-width: 1080px){
+    .icon-container {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 1220px){
+    .left-section-note {
+        display: none;
+    }
+    .header-note {
+        justify-content: center;
+        align-items: center;
+        width: max-content;
+    }
+}
